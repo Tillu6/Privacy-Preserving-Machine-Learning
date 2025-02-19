@@ -1,0 +1,9 @@
+# Exported from Render on 2025-02-19T15:41:14Z
+services:
+- type: web
+  name: Privacy-Preserving-Machine-Learning--1
+  runtime: static
+  repo: https://github.com/Tillu6/Privacy-Preserving-Machine-Learning
+  buildCommand: npm install && npm run build
+  staticPublishPath: build
+version: "1"
