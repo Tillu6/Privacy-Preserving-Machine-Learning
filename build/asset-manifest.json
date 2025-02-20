@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2345cc8d.css",
+    "main.js": "/static/js/main.3400f27c.js",
+    "static/media/cyberpunk-bg.jpg": "/static/media/cyberpunk-bg.0d7bd62b69c5f0ab874c.jpg",
+    "index.html": "/index.html",
+    "main.2345cc8d.css.map": "/static/css/main.2345cc8d.css.map",
+    "main.3400f27c.js.map": "/static/js/main.3400f27c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2345cc8d.css",
+    "static/js/main.3400f27c.js"
+  ]
+}
